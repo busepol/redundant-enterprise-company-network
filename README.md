@@ -8,7 +8,6 @@ This infrastructure design is modeled closely after a production enterprise camp
 
 The design implements a high-availability triangle topology at the distribution and core layers to ensure near-zero downtime. It is split into four distinct, functional departments (VLANs), an isolated server farm infrastructure, and a secure edge WAN connection.
 
-!(redundant-enterprise-network/images/topology.png)
 ---
 
 ## 🔑 Technical Stack & Implemented Protocols
