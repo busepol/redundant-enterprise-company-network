@@ -98,10 +98,8 @@ The stability, routing tables, and failover mechanics of this infrastructure are
 
 You can explore the underlying scripts, configurations, and topology files using the links below:
 
-* [Configs Directory]([https://www.google.com/search?q=./configs](https://github.com/busepol/redundant-enterprise-company-network/tree/main/redundant-enterprise-network/configs)): Contains complete production running configurations for the Edge Router, ISP platform, and Core switches.
-* [Images Directory]([https://www.google.com/search?q=./images](https://github.com/busepol/redundant-enterprise-company-network/tree/main/redundant-enterprise-network/images)): Topology diagrams, flowcharts, and system metrics documentation.
-* [Cisco Packet Tracer File]([https://www.google.com/search?q=./enterprise_topology.pkt](https://github.com/busepol/redundant-enterprise-company-network/blob/main/redundant-enterprise-network/drink-networkproject.pkt)): Packet Tracer master environment file *(Designed for Cisco Packet Tracer v8.2+)*.
+* [Configs Directory]((https://github.com/busepol/redundant-enterprise-company-network/tree/main/redundant-enterprise-network/configs)): Contains complete production running configurations for the Edge Router, ISP platform, and Core switches.
+* [Images Directory]((https://github.com/busepol/redundant-enterprise-company-network/tree/main/redundant-enterprise-network/images)): Topology diagrams, flowcharts, and system metrics documentation.
+* [Cisco Packet Tracer File]((https://github.com/busepol/redundant-enterprise-company-network/blob/main/redundant-enterprise-network/drink-networkproject.pkt)): Packet Tracer master environment file *(Designed for Cisco Packet Tracer v8.2+)*.
 
-```
 
-```
