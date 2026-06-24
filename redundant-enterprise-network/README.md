@@ -1,4 +1,3 @@
-```markdown
 # High-Availability Multi-Service Enterprise Network
 
 A production-grade, highly available enterprise network architecture designed to eliminate single points of failure (SPOFs). This infrastructure leverages a collapsed core/distribution layer featuring robust Layer 2/3 redundancy, dynamic routing, enterprise security boundaries, and segmented environments for multi-service traffic (Voice, Data, IoT, and Centralized Server Services).
@@ -9,7 +8,6 @@ This infrastructure design is modeled closely after a production enterprise camp
 
 The design implements a high-availability triangle topology at the distribution and core layers to ensure near-zero downtime. It is split into distinct, functional departments (VLANs), an isolated server farm infrastructure, and a secure edge WAN connection.
 
-![Network Topology](./images/topology.png)
 
 ---
 
@@ -100,9 +98,9 @@ The stability, routing tables, and failover mechanics of this infrastructure are
 
 You can explore the underlying scripts, configurations, and topology files using the links below:
 
-* [Configs Directory](https://www.google.com/search?q=./configs): Contains complete production running configurations for the Edge Router, ISP platform, and Core switches.
-* [Images Directory](https://www.google.com/search?q=./images): Topology diagrams, flowcharts, and system metrics documentation.
-* [Cisco Packet Tracer File](https://www.google.com/search?q=./enterprise_topology.pkt): Packet Tracer master environment file *(Designed for Cisco Packet Tracer v8.2+)*.
+* [Configs Directory]([https://www.google.com/search?q=./configs](https://github.com/busepol/redundant-enterprise-company-network/tree/main/redundant-enterprise-network/configs)): Contains complete production running configurations for the Edge Router, ISP platform, and Core switches.
+* [Images Directory]([https://www.google.com/search?q=./images](https://github.com/busepol/redundant-enterprise-company-network/tree/main/redundant-enterprise-network/images)): Topology diagrams, flowcharts, and system metrics documentation.
+* [Cisco Packet Tracer File]([https://www.google.com/search?q=./enterprise_topology.pkt](https://github.com/busepol/redundant-enterprise-company-network/blob/main/redundant-enterprise-network/drink-networkproject.pkt)): Packet Tracer master environment file *(Designed for Cisco Packet Tracer v8.2+)*.
 
 ```
 
