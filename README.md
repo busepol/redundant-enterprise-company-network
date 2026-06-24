@@ -1,7 +1,7 @@
 ```markdown
-# High-Availability Multi-Service Enterprise Campus Network
+# High-Availability Multi-Service Enterprise Network
 
-A production-grade, highly available enterprise campus network architecture designed to eliminate single points of failure (SPOFs). This infrastructure leverages a collapsed core/distribution layer featuring robust Layer 2/3 redundancy, dynamic routing, enterprise security boundaries, and segmented environments for multi-service traffic (Voice, Data, IoT, and Centralized Server Services).
+A production-grade, highly available enterprise network architecture designed to eliminate single points of failure (SPOFs). This infrastructure leverages a collapsed core/distribution layer featuring robust Layer 2/3 redundancy, dynamic routing, enterprise security boundaries, and segmented environments for multi-service traffic (Voice, Data, IoT, and Centralized Server Services).
 
 ## 🏗️ Project Origins & Architecture Context
 
